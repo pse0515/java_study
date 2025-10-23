@@ -104,5 +104,6 @@ public class BoardMain_강사님버전 {
         boardList.add(boardMap2);
 
         System.out.println(boardList);
+        //sdfasdfasdfasdfasdf
     }
 }

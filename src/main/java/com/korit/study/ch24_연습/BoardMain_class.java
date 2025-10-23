@@ -16,6 +16,6 @@ public class BoardMain_class {
 
         public int getAge() {
             return age;
-        }
+        }//asdfasdfasdf
     }
 }
