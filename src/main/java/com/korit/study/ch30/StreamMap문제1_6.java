@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamMap문제6 {
+public class StreamMap문제1_6 {
     public static void main(String[] args) {
         // 문제 6: 문자열 포맷팅
         // List<String> usernames = Arrays.asList("john", "mary", "steve");

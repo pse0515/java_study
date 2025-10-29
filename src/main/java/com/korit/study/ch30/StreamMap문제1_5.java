@@ -22,7 +22,7 @@ class Person {
     }
 }
 
-public class StreamMap문제5 {
+public class StreamMap문제1_5 {
         public static void main(String[] args) {
         // 문제 5: 객체에서 특정 필드 추출
         // lass Person {

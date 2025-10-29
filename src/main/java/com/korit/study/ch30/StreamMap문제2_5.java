@@ -75,20 +75,6 @@ public class StreamMap문제2_5 {
 
             System.out.println(domains3);
 
-            List<Employee> employees = Arrays.asList(
-                    new Employee("Kim", 50000),
-                    new Employee("Lee", 60000)
-            );
-
-            List<EmployeeDTO> employeeDTOs = employees.stream()
-                    .map(Employee::toDto)
-                    .toList();
-
-            System.out.println(employees);
-            System.out.println(employeeDTOs);
-
-
-
 
         }
     }

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class StreamMap문제1_4 {
+public class StreamMap문제1_1_4 {
 
     public static void main(String[] args) {
         // 문제 1: 문자열 대문자 변환
