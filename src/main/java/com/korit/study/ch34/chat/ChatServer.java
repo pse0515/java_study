@@ -8,6 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Vector;
 
 class Client extends Thread {
     private Socket socket;
@@ -39,7 +40,7 @@ class Client extends Thread {
 }
 
 public class ChatServer {
-    public static List<Client> clients = new ArrayList<>();
+    public static Vector<Client> clients = new Vector<>();
 
     public static void main(String[] args) {
         final int SERVER_PORT = 5000;
