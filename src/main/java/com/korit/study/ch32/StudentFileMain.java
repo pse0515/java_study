@@ -29,9 +29,9 @@ public class StudentFileMain {
             FileWriter fileWriter = new FileWriter(FILE_NAME);
 
             Map<String, String> modifyDataMap = Map.of(
-                    "나이", "25",
-                    "이름", "박성은",
-                    "학교", "백석예술대학교"
+                    "나이", "34",
+                    "이름", "김준삼",
+                    "학교", "동의대학교"
             );
 
             List<String> readLineList = new ArrayList<>();
